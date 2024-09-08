@@ -1,0 +1,5 @@
+{
+    "require": {
+        "aryunara/pyrobyte-lib": "^1.0"
+    }
+}
